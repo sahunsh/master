@@ -1,1 +1,2 @@
-mkdir /home/ubuntu/myfolder
+mkdir -p /home/ubuntu/myfolder
+touch file1
